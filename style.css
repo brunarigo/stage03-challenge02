@@ -8,10 +8,8 @@
   font-size: 62.5%;
   --ff-header: 'Staatliches', cursive;
   --ff-text: 'Palanquin', sans-serif; 
-
   --bg-primary: #EFF1FF;
   --fc-text: hsla(274, 84%, 12%, 1);
-
 }
 
 body {
