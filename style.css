@@ -52,7 +52,7 @@ main {
   margin-top: 2.9rem;
   display: grid;
   gap: 3.6rem;
-  padding: 1.8rem 3.2rem 6rem;
+  padding-bottom: 6rem;
 }
 
 p {
